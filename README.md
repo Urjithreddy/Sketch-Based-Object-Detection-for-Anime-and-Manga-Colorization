@@ -1,8 +1,5 @@
 # Sketch-Based-Object-Detection-for-Anime-and-Manga-Colorization
 
-Master Urjith, here's the revised extended description including the evaluation metrics and a designated section to paste the output image:
-
----
 
 # Image Colorization using Deep Learning
 
@@ -130,6 +127,3 @@ Below is an area where you can paste the output image showcasing the colorizatio
 
 This project demonstrates a robust approach to image colorization using deep learning. With multiple models, comprehensive training routines, and a user-friendly web interface, it's a valuable resource for anyone interested in applying neural networks to creative tasks. Explore, experiment, and feel free to enhance the models further!
 
----
-
-Feel free to modify or expand any sections as needed, Master Urjith!
