@@ -1,6 +1,6 @@
 # Sketch-Based-Object-Detection-for-Anime-and-Manga-Colorization
 
-This repository provides a complete pipeline for colorizing black-and-white images using deep learning. It features multiple model architectures, robust data preprocessing, and a deployment interface to showcase the results. Whether you're a researcher or an enthusiast, you'll find the code modular and easy to extend.
+This repository provides a complete pipeline for colorizing black and white images using deep learning. It features multiple model architectures, robust data preprocessing, and a deployment interface to showcase the results. Whether you're a researcher or an enthusiast, you'll find the code modular and easy to extend.
 
 ## Overview
 
