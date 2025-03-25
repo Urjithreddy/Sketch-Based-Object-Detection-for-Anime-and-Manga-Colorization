@@ -64,9 +64,9 @@ The project implements three distinct approaches to image colorization:
 
 After training, the models achieved the following SSIM accuracies:
 
-- **Pix2Pix Generator**: 85.60%
-- **Patch-Based Model**: 85.13%
-- **Custom Fused Model**: 94.30%
+- **Pix2Pix Generator**: 85.07%
+- **Patch-Based Model**: 82.38%
+- **Our Model**: 95.01%
 
 These metrics demonstrate the superior performance of the Custom Fused Model in terms of structural similarity to the ground truth images.
 
@@ -74,8 +74,8 @@ These metrics demonstrate the superior performance of the Custom Fused Model in 
 
 Below is an area where you can paste the output image showcasing the colorization result:
 
+![Colorized Output](https://github.com/user-attachments/assets/67364c8b-febf-46ee-b57a-44d111ce34e2)
 
-![Colorized Output](https://github.com/user-attachments/assets/50ba570f-08d1-4b64-bf06-eb10e871c880)
 
 
 ## How to Use
